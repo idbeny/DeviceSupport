@@ -1,8 +1,8 @@
 # DeviceSupport
 
-快捷键：`shift+command+G`
+> Shortcut：`shift+command+G`
 
-路径：`/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport`
+> Path：`/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport`
 
 * 8.0
 * 8.1
