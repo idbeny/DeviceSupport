@@ -1,5 +1,7 @@
 # DeviceSupport
 
+> Latest：12.0 (16A366)
+
 > Shortcut：`shift+command+G`
 
 > Path：`/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport`
@@ -34,3 +36,4 @@
 * 12.0 (16A5308d)
 * 12.0 (16A5318d)
 * 12.0 (16A5327d)
+* 12.0 (16A366)
