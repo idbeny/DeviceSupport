@@ -1,6 +1,6 @@
 # DeviceSupport
 
-> Latest：12.1 (16B93)
+> Latest：12.2 (16E227)
 
 > Shortcut：`shift+command+G`
 
@@ -43,3 +43,4 @@
 * 12.1 (16E226)
 * 12.1 (16B93)
 * 12.2 (16E226)
+* 12.2 (16E227)
