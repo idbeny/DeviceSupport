@@ -1,13 +1,17 @@
 ## DeviceSupport
 
-### Latest：15.0(19A5307d)
+### Latest：15.4(19E5219e)
 
-#### Folder path
+### Folder path
 1. Shortcut：`shift+command+G`
 
 2. Copy to Path：`/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport`
 
 ### History version
+* [15.4(19E5219e)](https://github.com/idbeny/DeviceSupport/raw/master/15.4(19E5219e).zip)
+* [15.4(19E239)](https://github.com/idbeny/DeviceSupport/raw/master/15.4(19E239).zip)
+* [15.2(19C57)](https://github.com/idbeny/DeviceSupport/raw/master/15.2(19C57).zip)
+* [15.2(19C51)](https://github.com/idbeny/DeviceSupport/raw/master/15.2(19C51).zip)
 * [15.0(19A5307d)](https://github.com/idbeny/DeviceSupport/raw/master/15.0(19A5307d).zip)
 * [15.0(19A5297e)](https://github.com/idbeny/DeviceSupport/raw/master/15.0(19A5297e).zip)
 * [15.0(19A5281d)](https://github.com/idbeny/DeviceSupport/raw/master/15.0(19A5281d).zip)
